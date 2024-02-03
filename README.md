@@ -1,2 +1,0 @@
-# npm-basics
-NPM basics
